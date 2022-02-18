@@ -1,0 +1,7 @@
+name = "Kamuran"
+first_name = input("Enter your firs name: ")
+
+if firs_name.title() == name :
+  print("Hello, Kamuran! Then password is : A1987 ")
+else :
+  print(f"Hello, {first_name}! See you later.")
